@@ -6,6 +6,6 @@ all .png, .jpg, .jpeg, .webp and .mp4 files in the selected input folder will be
 
 you may need to move the shortcut into the correct place to use it on your home-screen
 
-windows defender / other anti-malware things might flag it because its a .exe (obviously its not a virus)
+windows defender / other anti-malware things might flag it because its a .exe with an 'unknown publisher' (obviously its not a virus)
 
 PROCEED WITH CAUTION!
